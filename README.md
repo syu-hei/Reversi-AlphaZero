@@ -1,2 +1,2 @@
 # Reversi-AlphaZero
-作成中
+モンテカルロ木探索の作成
