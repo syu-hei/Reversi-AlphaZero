@@ -1,5 +1,5 @@
-from game import State
-from dual_network import DN_INPUT_SHAPE
+from Game import State
+from ResidualNetwork import DN_INPUT_SHAPE
 from math import sqrt
 from tensorflow.keras.models import load_model
 from pathlib import Path
