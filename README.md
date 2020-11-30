@@ -1,2 +1,2 @@
-# reversi_game
+# ReversiAI
 作成中
