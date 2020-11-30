@@ -1,2 +1,2 @@
-# reversi_game
-Residual Networkの実装
+# Reversi-AlphaZero
+ResidualNetworkの作成
