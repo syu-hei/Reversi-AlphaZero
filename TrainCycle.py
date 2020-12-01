@@ -1,5 +1,5 @@
 from ResidualNetwork import dual_network
-from Play import self_play
+from SelfPlay import self_play
 from TrainNetwork import train_network
 from EvaluateNetwork import evaluate_network
 
