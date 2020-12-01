@@ -1,6 +1,18 @@
 # Reversi-AlphaZero
 AlphaZeroの機械学習アルゴリズムを参考に作成したオセロゲーム
   
+```python
+from google.colab import files
+uploaded = files.upload()
+
+!python TrainCycle.py
+
+from google.colab import files
+files.download('./model/best.h5')
+```
+
+
+
 ## Game.py
 オセロの基本ルール設定
 ## ResidualNetwork.py
