@@ -1,5 +1,5 @@
 # Reversi-AlphaZero
-## AlphaZeroの機械学習アルゴリズムを参考に作成したオセロゲーム
+## AlphaZeroの機械学習アルゴリズムを参考に作成したオセロAIと対戦するゲーム
   
 * Google Colabで機械学習を行い学習データを作成する
 ```python
