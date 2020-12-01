@@ -38,3 +38,6 @@ $ python HumanPlay.py
 * 全てのスクリプトを合わせた学習サイクルの構築
 ### HumanPlay.py
 * プログラムで作成されたAIとの対戦
+
+## model
+学習データ(best.h5)を`./model`に保存
