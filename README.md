@@ -16,8 +16,9 @@ files.download('./model/best.h5')
 ```
 
 * HumanPlay.pyを実行することでAIと対戦できます。  
-  
-    `$ python HumanPlay.py`
+```bash
+$ python HumanPlay.py
+```
   
   
 ## ソースコード一覧 
