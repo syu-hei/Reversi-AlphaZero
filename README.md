@@ -15,7 +15,7 @@ from google.colab import files
 files.download('./model/best.h5')
 ```
 
-* HumanPlay.pyを実行することでAIと対戦できます。  
+* HumanPlay.pyを実行することでAIと対戦できます。    
 `$ python HumanPlay.py`
   
   
