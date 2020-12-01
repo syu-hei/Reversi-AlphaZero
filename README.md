@@ -1,16 +1,22 @@
 # Reversi-AlphaZero
 AlphaZeroの機械学習アルゴリズムを参考に作成したオセロゲーム
   
+Google Colabで機械学習を行い学習データを作成する
 ```python
+# ソースコード一式アップロード
 from google.colab import files
 uploaded = files.upload()
 
+# 学習サイクル実行
 !python TrainCycle.py
 
+# 学習が完了したら学習データ(best.h5)をダウンロードする
 from google.colab import files
 files.download('./model/best.h5')
 ```
 
+HumanPlay.pyを実行することでAIと対戦できます。
+`$ python HumanPlay.py`
 
 
 ## Game.py
