@@ -1,2 +1,2 @@
 # Reversi-AlphaZero
-作成中
+プログラムで作成されたAIとの対戦
